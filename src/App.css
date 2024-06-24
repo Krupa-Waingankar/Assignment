@@ -1,0 +1,57 @@
+.App {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+
+.Home{
+  margin-bottom: 15px;
+}
+
+.Home input {
+  margin-right: 10px;
+}
+
+.Home button {
+  padding: 5px 10px;
+}
+
+.home-temp{
+  padding: 50px 100px;
+  background-color:aquamarine;
+}
+
+.home-temp p{
+  font-weight: bolder;
+}
+
+.search-box{
+  margin: 50px 50px;
+}
+label{
+  margin-right: 10px;
+}
+
+.search-button{
+  background-color: cadetblue;
+  font-weight: bolder;
+  border-radius: 10%;
+  padding: 10px 10px;
+  border: none;
+  margin-top: 15px;
+}
